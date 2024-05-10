@@ -1,0 +1,25 @@
+{
+  "name": "ht-class-prompt",
+  "version": "1.0.0",
+  "description": "Pacote construído com o objetivo de explicar a prática do uso de HOFs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JorgeEmanoel/ht-class-prompt.git"
+  },
+  "keywords": [
+    "hacktown"
+  ],
+  "author": "Jorge Emanoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeEmanoel/ht-class-prompt/issues"
+  },
+  "homepage": "https://github.com/JorgeEmanoel/ht-class-prompt#readme",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
