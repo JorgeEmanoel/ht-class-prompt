@@ -1,6 +1,6 @@
 {
   "name": "ht-class-prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacote construído com o objetivo de explicar a prática do uso de HOFs.",
   "main": "index.js",
   "scripts": {
